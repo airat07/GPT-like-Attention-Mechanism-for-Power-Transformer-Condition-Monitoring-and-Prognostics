@@ -8,7 +8,7 @@ Remaining Useful Life: A degradation-based RUL model that takes into account the
 
 ![image](https://github.com/airat07/GPT-like-Attention-Mechanism-for-Power-Transformer-Condition-Monitoring-and-Prognostics/assets/102396976/0e1e3dbf-6e39-45f6-92ae-50fa1f525c5a)
 
-Fault Classifications: 
+Fault Classification: 
 
 
 References:
