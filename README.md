@@ -14,5 +14,6 @@ Fault Classifications:
 References:
 Discrete Wavelet Transform Decomposition machine learning models were inspired by this article:
 https://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/
+
 Three Ways to Estimate Remaining Useful Life for Predictive Maintenance:
 https://www.mathworks.com/company/newsletters/articles/three-ways-to-estimate-remaining-useful-life-for-predictive-maintenance.html 
