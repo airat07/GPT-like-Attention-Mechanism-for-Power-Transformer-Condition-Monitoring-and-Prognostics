@@ -73,4 +73,3 @@ def remaining_life (file):
     plt.legend()
     plt.show()   
 
-remaining_life("ETTm1_train.csv")
