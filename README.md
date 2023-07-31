@@ -4,7 +4,7 @@ This research explores the application of Large-Scale Foundation (LSF) models in
 
 Functions: 
 
-Remaining Useful Life: Use of degradation-based RUL model to estimate the time until transformer requires maintenance. 
+Remaining Useful Life: A degradation-based RUL model that takes into account the change in oil temperature over time, to estimate when a transformer will require maintenance.
 
 ![image](https://github.com/airat07/GPT-like-Attention-Mechanism-for-Power-Transformer-Condition-Monitoring-and-Prognostics/assets/102396976/0e1e3dbf-6e39-45f6-92ae-50fa1f525c5a)
 
